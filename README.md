@@ -1,5 +1,6 @@
 # the-playboy-chimp
 the playboy chimp impl
+https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1552
 
 Once upon a time, there lived a chimpanzee
 called Luchu Bandor (aka Playboy Chimp).
